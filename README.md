@@ -110,3 +110,4 @@ I would add full-text reading inside the app (instead of opening the browser), i
 - `axios`
 - `@react-native-async-storage/async-storage`
 "# news-explorer" 
+"# news-api" 

@@ -16,8 +16,8 @@ npm install
 Open `src/constants/index.js` and replace the placeholders:
 
 ```js
-export const NEWS_API_KEY    = 'YOUR_NEWSAPI_KEY_HERE';
-export const WEATHER_API_KEY = 'YOUR_OPENWEATHER_KEY_HERE';
+export const NEWS_API_KEY    = '021b8d9592d341afaeb234d1a0331db9';
+export const WEATHER_API_KEY = 'd05829b8a449fa42c4acb6b16d3a73ea';
 ```
 
 **Get free keys here:**

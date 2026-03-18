@@ -1,0 +1,8 @@
+node_modules/
+.expo/
+dist/
+build/
+*.jks
+*.keystore
+.env
+.DS_Store

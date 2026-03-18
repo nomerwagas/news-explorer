@@ -2,6 +2,9 @@ node_modules/
 .expo/
 dist/
 build/
+temp-app/
+android/
+ios/
 *.jks
 *.keystore
 .env

@@ -4,8 +4,8 @@
     "slug": "news-explorer",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
+    "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -25,6 +25,12 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "plugins": []
+    "newArchEnabled": false,
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "169ac912-954c-4fd4-a31f-a490d1e619e2"
+      }
+    }
   }
 }
